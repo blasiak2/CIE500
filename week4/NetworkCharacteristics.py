@@ -107,4 +107,4 @@ nx.draw_networkx(
 )
 ax.axis("off")  # remove the frame of the generated figure
 plt.show()
-# %%
+# %%Macroscopic analysis
